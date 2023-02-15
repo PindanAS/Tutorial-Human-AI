@@ -124,6 +124,15 @@ Special Thanks To AirdropFind
 
   > (Opsional) Ganti deskripsi node di bagian `--details`
 
+* Mengubah detail validator
+```humansd tx staking edit-validator \
+--new-moniker="NamaBaruValidator" \
+--website="WebsiteBaru" \
+--details="TERSERAH_ANDA" \
+--from=oval --keyring-backend file \
+--gas-prices 0.025uheart
+```
+
 * Cek status validator
 
   Cek txhash tadi di [explorer](https://explorer.humans.zone/humans-testnet)
