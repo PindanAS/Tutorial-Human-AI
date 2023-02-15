@@ -3,7 +3,6 @@ echo "    //   / /  ||  / /     //__| |     / /    "
 echo "   //   / /   || / /     / ___  |    / /     "
 echo "  //   / /    ||/ /     //    | |   / /      "
 echo " ((___/ /     |  /     //     | |  / /____/ /"
-sleep 5
 
 echo -e "\n==========INSTALLING DEPENDENCIES==========\n"
 sleep 2
