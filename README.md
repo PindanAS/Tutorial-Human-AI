@@ -125,7 +125,8 @@ Special Thanks To AirdropFind
   > (Opsional) Ganti deskripsi node di bagian `--details`
 
 * Mengubah detail validator
-```humansd tx staking edit-validator \
+```
+humansd tx staking edit-validator \
 --new-moniker="NamaBaruValidator" \
 --website="WebsiteBaru" \
 --details="TERSERAH_ANDA" \
