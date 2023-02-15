@@ -49,7 +49,7 @@ Special Thanks To AirdropFind
 * Download script `run.sh`
   ```console
   rm run.sh
-  wget -q https://raw.githubusercontent.com/PindanAS/Tutorial-Human-AI/blob/main/run.sh
+  wget -q https://raw.githubusercontent.com/PindanAS/Tutorial-Human-AI/main/run.sh
   ```
 * Ubah `run.sh` menjadi executable
   ```console
