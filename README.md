@@ -81,7 +81,7 @@ Special Thanks To AirdropFind
   > Lalu simpan mnemonic
 * Menampilkan alamat dompet
   ```console
-  humansd keys show <NAMA_DOMPET> -a
+  humansd keys show <NAMA_DOMPET>
   ```
   > Lalu salin address yang muncul di terminal
 * Klaim faucet
@@ -98,6 +98,8 @@ Special Thanks To AirdropFind
   humansd query bank balances <HUMAN_ADDRESS>
   ```
   > Ganti <HUMAN_ADDRESS> dengan addressmu
+  > NOTE: Jika ada transaksi gagal atau tidak bisa membuka menggunakan CLI coba tambahkan ```--keyring-backend file``` di akhir command
+  > contoh: ```humansd keys show <NAMA_DOMPET> --keyring-backend file
 
 ### Daftar menjadi validator
 
