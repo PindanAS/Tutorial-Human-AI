@@ -49,7 +49,7 @@ Special Thanks To AirdropFind
 * Download script `run.sh`
   ```console
   rm run.sh
-  wget -q https://raw.githubusercontent.com/bayy420-999/Tutorial-testnet-Human-AI-node-Airdrop-Finder/main/run.sh
+  wget -q https://raw.githubusercontent.com/PindanAS/Tutorial-Human-AI/blob/main/run.sh
   ```
 * Ubah `run.sh` menjadi executable
   ```console
